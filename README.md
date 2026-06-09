@@ -30,4 +30,4 @@ Aqui estão as linguagens e tecnologias com as quais trabalho e possuo experiên
 
 Se você busca um profissional com forte base em infraestrutura e desenvolvimento, sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](www.linkedin.com/in/pedro-lins092) ![Email](pedroalins.contato@gmail.com)
+[![LinkedIn](www.linkedin.com/in/pedroralins) ![Email](pedroalins.contato@gmail.com)
