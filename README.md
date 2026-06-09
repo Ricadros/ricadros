@@ -2,9 +2,9 @@
 
 ### [Engenheiro da Computação | Assessor de TI]
 
-*📍 Manaus, Amazonas*
-Engenheiro da Computação . Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura. Atualmente direciono minha carreira para o desenvolvimento de software. Utilizo meu forte background em sistemas físicos e servidores para criar aplicações mais eficientes e seguras.
-<br>
+📍 *Manaus, Amazonas*
+
+Engenheiro da Computação. Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura. Atualmente direciono minha carreira para o desenvolvimento de software. Utilizo meu forte background em sistemas físicos e servidores para criar aplicações mais eficientes e seguras.
 
 ---
 
