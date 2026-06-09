@@ -6,8 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricadros&layout=compact&theme=dark&hide=css" />
 
-Engenheiro da Computação em formação (com conclusão e colação de grau em agosto de 2026). Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura. Otimizo ambientes corporativos unindo o conhecimento de hardware, servidores e o desenvolvimento de scripts e automações.
-
+Engenheiro da Computação . Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura.
 <br>
 
 ---
