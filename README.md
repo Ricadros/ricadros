@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Lins!
 
-<!--
-**Ricadros/ricadros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Engenheiro da Computação | Assessor de TI]
 
-Here are some ideas to get you started:
+*📍 Manaus, Amazonas*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricadros&layout=compact&theme=dark&hide=css" />
+
+Engenheiro da Computação em formação (com conclusão e colação de grau em agosto de 2026). Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura. Otimizo ambientes corporativos unindo o conhecimento de hardware, servidores e o desenvolvimento de scripts e automações.
+
+<br>
+
+---
+
+## 💻 Linguagens & Tecnologias
+
+Aqui estão as linguagens e tecnologias com as quais trabalho e possuo experiência prática:
+
+### 🛠️ Linguagens de Programação & Web
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🌐 Infraestrutura, Redes & Servidores
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### ⚙️ Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Vamos nos conectar?
+
+Se você busca um profissional com forte base em infraestrutura e desenvolvimento, sinta-se à vontade para entrar em contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-linkedin) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
