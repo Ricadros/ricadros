@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricadros&layout=compact&theme=dark&hide=css" />
 
-Engenheiro da Computação . Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura.
+Engenheiro da Computação . Atuo como Assessor de TI, com sólida experiência técnica em administração de redes e suporte de infraestrutura. Atualmente direciono minha carreira para o desenvolvimento de software. Utilizo meu forte background em sistemas físicos e servidores para criar aplicações mais eficientes e seguras.
 <br>
 
 ---
